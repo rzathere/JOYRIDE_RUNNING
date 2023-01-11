@@ -1,0 +1,701 @@
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 0
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 1
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 2
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 3
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 4
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 5
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 6
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 7
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 8
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 9
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 10
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 11
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 12
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 13
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 14
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 15
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 16
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 17
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 18
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 19
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 20
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 21
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 22
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 23
+"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 24
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 25
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 26
+"../../../Engine/Content/EngineResources/Black.uasset" 27
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 28
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 29
+"../../../Engine/Content/EngineResources/StreamingPauseIcon.uasset" 30
+"../../../Engine/Content/EngineResources/M_StreamingPause.uasset" 31
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 32
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 33
+"../../../Engine/Content/EditorLandscapeResources/LandscapeGizmo_Mat.uasset" 34
+"../../../Engine/Content/EditorLandscapeResources/LandscapeGizmo_Mat_Copied.uasset" 35
+"../../../Engine/Content/EditorLandscapeResources/SplineEditorMeshMat.uasset" 36
+"../../../Engine/Content/EditorLandscapeResources/SplineEditorMesh.uasset" 37
+"../../../Engine/Content/EditorLandscapeResources/LandscapeGizmoHeight_Mat.uasset" 38
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset" 39
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 40
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 41
+"../../../Engine/Content/EditorMeshes/EditorCube.uasset" 42
+"../../../Engine/Content/EditorMeshes/EditorPlane.uasset" 43
+"../../../Engine/Content/EditorResources/MatineeCam_D.uasset" 44
+"../../../Engine/Content/EditorMaterials/MatineeCam_mat.uasset" 45
+"../../../Engine/Content/EditorMeshes/MatineeCam_SM.uasset" 46
+"../../../Engine/Content/EditorMeshes/EditorCylinder.uasset" 47
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 48
+"../../../Engine/Content/EditorMeshes/EditorSkySphere.uasset" 49
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 50
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 51
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 52
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 53
+"../../../Engine/Content/EditorMeshes/PlanarReflectionPlane.uasset" 54
+"../../../Engine/Content/EditorMeshes/EditorSphere.uasset" 55
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 56
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 57
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 58
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 59
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleOpaque.uasset" 60
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_CamViewFinder.uasset" 61
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_CameraBody.uasset" 62
+"../../../Engine/Content/EditorMeshes/Camera/SM_CineCam.uasset" 63
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 64
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 65
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 66
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 67
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 68
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 69
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 70
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 71
+"../../../Engine/Content/EngineFonts/SmallFont.uasset" 72
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 73
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 74
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 75
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 76
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 77
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 78
+"../../../Engine/Content/EngineFonts/TinyFont.uasset" 79
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 80
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 81
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 82
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 83
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 84
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 85
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 86
+"../../../Engine/Content/EngineMaterials/PaperDiffuse.uasset" 87
+"../../../Engine/Content/EngineMaterials/BlinkingCaret.uasset" 88
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 89
+"../../../Engine/Content/EngineMaterials/PaperNormal.uasset" 90
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 91
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 92
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 93
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 94
+"../../../Engine/Content/EngineMaterials/HighResScreenshotCaptureRegion.uasset" 95
+"../../../Engine/Content/EngineMaterials/LandscapeHolePhysicalMaterial.uasset" 96
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 97
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 98
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 99
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 100
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 101
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 102
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 103
+"../../../Engine/Content/EngineMaterials/HighResolutionScreenshotMaskFunction.uasset" 104
+"../../../Engine/Content/EngineMaterials/HighResScreenshot.uasset" 105
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 106
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 107
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 108
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 109
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/sRGBToLinear.uasset" 110
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 111
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 112
+"../../../Engine/Content/EngineMaterials/Widget3DCameraPassThrough_Opaque_OneSided.uasset" 113
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 114
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 115
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 116
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 117
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 118
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 119
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 120
+"../../../Engine/Content/EngineMaterials/HighResScreenshotMask.uasset" 121
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 122
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 123
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 124
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 125
+"../../../Engine/Content/EngineMaterials/PhysMat_Rubber.uasset" 126
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 127
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 128
+"../../../Engine/Content/EngineMaterials/Grid_N.uasset" 129
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 130
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 131
+"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset" 132
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 133
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 134
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 135
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 136
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 137
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 138
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 139
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_BlueOnly.uasset" 140
+"../../../Engine/Content/EngineDebugMaterials/LevelColorationLitMaterial.uasset" 141
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_AlphaAsColor.uasset" 142
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_RedOnly.uasset" 143
+"../../../Engine/Content/EngineDebugMaterials/ShadedLevelColorationUnlitMateri.uasset" 144
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 145
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 146
+"../../../Engine/Content/EngineDebugMaterials/PhysicalMaterialMaskMaterial.uasset" 147
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 148
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_GreenOnly.uasset" 149
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 150
+"../../../Engine/Content/EngineDebugMaterials/MAT_LevelColorationLitLightmapUV.uasset" 151
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 152
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_ColorOnly.uasset" 153
+"../../../Engine/Content/EngineDebugMaterials/LevelColorationUnlitMaterial.uasset" 154
+"../../../Engine/Content/EngineDebugMaterials/ShadedLevelColorationLitMaterial.uasset" 155
+"../../../Engine/Content/EditorResources/S_Emitter.uasset" 156
+"../../../Engine/Content/EditorResources/S_LevelSequence.uasset" 157
+"../../../Engine/Content/EditorResources/S_Thruster.uasset" 158
+"../../../Engine/Content/EditorResources/S_WindDirectional.uasset" 159
+"../../../Engine/Content/EditorResources/S_KBSJoint.uasset" 160
+"../../../Engine/Content/EditorResources/S_ReflActorIcon.uasset" 161
+"../../../Engine/Content/EditorResources/Bad.uasset" 162
+"../../../Engine/Content/EditorResources/S_SkyAtmosphere.uasset" 163
+"../../../Engine/Content/EditorResources/S_DecalActorIcon.uasset" 164
+"../../../Engine/Content/EditorResources/SmallFont.uasset" 165
+"../../../Engine/Content/EditorResources/S_Player.uasset" 166
+"../../../Engine/Content/EditorResources/S_KPrismatic.uasset" 167
+"../../../Engine/Content/EditorResources/S_Note.uasset" 168
+"../../../Engine/Content/EditorResources/S_VectorFieldVol.uasset" 169
+"../../../Engine/Content/EditorResources/S_CameraShakeSource.uasset" 170
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 171
+"../../../Engine/Content/EditorResources/S_NavP.uasset" 172
+"../../../Engine/Content/EditorResources/S_KHinge.uasset" 173
+"../../../Engine/Content/EditorResources/S_ExpoHeightFog.uasset" 174
+"../../../Engine/Content/EditorResources/S_FTest.uasset" 175
+"../../../Engine/Content/EditorResources/S_PortalActorIcon2.uasset" 176
+"../../../Engine/Content/EditorResources/SceneManager.uasset" 177
+"../../../Engine/Content/EditorResources/S_TextRenderActorIcon.uasset" 178
+"../../../Engine/Content/EditorResources/S_RadForce.uasset" 179
+"../../../Engine/Content/EditorResources/S_Terrain.uasset" 180
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 181
+"../../../Engine/Content/EditorResources/S_VolumetricCloud.uasset" 182
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 183
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 184
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 185
+"../../../Engine/Content/EditorResources/MatInstActSprite.uasset" 186
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 187
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 188
+"../../../Engine/Content/EditorResources/AI/S_NavLink.uasset" 189
+"../../../Engine/Content/EditorResources/Spline/T_Loft_Spline.uasset" 190
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 191
+"../../../Engine/Content/EditorResources/LightIcons/S_LightSpot.uasset" 192
+"../../../Engine/Content/EditorResources/LightIcons/S_LightSpotMove.uasset" 193
+"../../../Engine/Content/EditorResources/LightIcons/SkyLight.uasset" 194
+"../../../Engine/Content/EditorResources/LightIcons/S_LightPoint.uasset" 195
+"../../../Engine/Content/EditorResources/LightIcons/S_LightPointMove.uasset" 196
+"../../../Engine/Content/EditorResources/LightIcons/S_LightDirectional.uasset" 197
+"../../../Engine/Content/EditorResources/LightIcons/S_LightDirectionalMove.uasset" 198
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 199
+"../../../Engine/Content/BasicShapes/Cone.uasset" 200
+"../../../Engine/Content/BasicShapes/Cube.uasset" 201
+"../../../Engine/Content/BasicShapes/Plane.uasset" 202
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 203
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 204
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ScreenResolution.uasset" 205
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.uasset" 206
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedUVs.uasset" 207
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 208
+"../../../Engine/Content/BufferVisualization/CustomStencil.uasset" 209
+"../../../Engine/Content/BufferVisualization/LightingModel.uasset" 210
+"../../../Engine/Content/BufferVisualization/SubsurfaceColor.uasset" 211
+"../../../Engine/Content/BufferVisualization/WorldNormal.uasset" 212
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 213
+"../../../Engine/Content/BufferVisualization/SceneDepthWorldUnits.uasset" 214
+"../../../Engine/Content/BufferVisualization/Opacity.uasset" 215
+"../../../Engine/Content/BufferVisualization/SeparateTranslucencyRGB.uasset" 216
+"../../../Engine/Content/BufferVisualization/BaseColor.uasset" 217
+"../../../Engine/Content/BufferVisualization/Metallic.uasset" 218
+"../../../Engine/Content/BufferVisualization/Velocity.uasset" 219
+"../../../Engine/Content/BufferVisualization/MaterialAO.uasset" 220
+"../../../Engine/Content/BufferVisualization/SeparateTranslucencyA.uasset" 221
+"../../../Engine/Content/BufferVisualization/SceneDepth.uasset" 222
+"../../../Engine/Content/BufferVisualization/WorldTangent.uasset" 223
+"../../../Engine/Content/BufferVisualization/Specular.uasset" 224
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/AppendMany.uasset" 225
+"../../../Engine/Content/BufferVisualization/Anisotropy.uasset" 226
+"../../../Engine/Content/BufferVisualization/PostTonemapHDRColor.uasset" 227
+"../../../Engine/Content/BufferVisualization/SceneColor.uasset" 228
+"../../../Engine/Content/BufferVisualization/PreTonemapHDRColor.uasset" 229
+"../../../Engine/Content/BufferVisualization/FinalImage.uasset" 230
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 231
+"../../../Engine/Content/BufferVisualization/AmbientOcclusion.uasset" 232
+"../../../Engine/Content/BufferVisualization/CustomDepth.uasset" 233
+"../../../Engine/Content/BufferVisualization/Roughness.uasset" 234
+"../../../Engine/Content/BufferVisualization/CustomDepthWorldUnits.uasset" 235
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 236
+"../../../Engine/Content/EditorMaterials/Tick.uasset" 237
+"../../../Engine/Content/EditorMaterials/Tick_Mat.uasset" 238
+"../../../Engine/Content/EditorMaterials/WidgetMaterial_X.uasset" 239
+"../../../Engine/Content/EditorMaterials/WidgetMaterial_Z.uasset" 240
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 241
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 242
+"../../../Engine/Content/EditorMaterials/WidgetMaterial.uasset" 243
+"../../../Engine/Content/EditorMaterials/PhAT_NoCollisionMaterial.uasset" 244
+"../../../Engine/Content/EditorMaterials/PhAT_BoneSelectedMaterial.uasset" 245
+"../../../Engine/Content/EditorMaterials/Cross.uasset" 246
+"../../../Engine/Content/EditorMaterials/Cross_Mat.uasset" 247
+"../../../Engine/Content/EditorResources/T_EditorHelp.uasset" 248
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/DebugNumberPeriod.uasset" 249
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/DebugNumberStrip.uasset" 250
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ComputeMipLevel.uasset" 251
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.uasset" 252
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.uasset" 253
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugFloat2Values.uasset" 254
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.uasset" 255
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/FlipBook.uasset" 256
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Sign.uasset" 257
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Round.uasset" 258
+"../../../Engine/Content/EditorMaterials/HelpActorMaterial.uasset" 259
+"../../../Engine/Content/EditorMaterials/WidgetMaterial_Y.uasset" 260
+"../../../Engine/Content/EditorMaterials/TargetIcon.uasset" 261
+"../../../Engine/Content/EditorMaterials/WidgetVertexColorMaterial.uasset" 262
+"../../../Engine/Content/EditorMaterials/WidgetMaterial_Current.uasset" 263
+"../../../Engine/Content/EditorMaterials/TilingAALineIntegral.uasset" 264
+"../../../Engine/Content/EditorMaterials/TilingAALineBoxFiltered.uasset" 265
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBase.uasset" 266
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBlend.uasset" 267
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Screen.uasset" 268
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 269
+"../../../Engine/Content/EditorMaterials/TilingAAGrid.uasset" 270
+"../../../Engine/Content/EditorMaterials/CompositeARGBLayer.uasset" 271
+"../../../Engine/Content/EditorMaterials/TilingAADots.uasset" 272
+"../../../Engine/Content/EditorMaterials/LevelGridMaterial.uasset" 273
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 274
+"../../../Engine/Content/EditorMaterials/PhAT_ElemSelectedMaterial.uasset" 275
+"../../../Engine/Content/EditorMaterials/WidgetGridVertexColorMaterial.uasset" 276
+"../../../Engine/Content/EditorMaterials/WidgetGridVertexColorMaterial_Ma.uasset" 277
+"../../../Engine/Content/EditorMaterials/PhAT_UnselectedMaterial.uasset" 278
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 279
+"../../../Engine/Content/EditorResources/LevelGrid1DStripes.uasset" 280
+"../../../Engine/Content/EditorMaterials/TextureGridCascaded1D.uasset" 281
+"../../../Engine/Content/EditorMaterials/TextureGridCascaded2D.uasset" 282
+"../../../Engine/Content/EditorMaterials/MakeCompositeARGBLayer.uasset" 283
+"../../../Engine/Content/EditorMaterials/LevelGridMaterial2.uasset" 284
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 285
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 286
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 287
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 288
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 289
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 290
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 291
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 292
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 293
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 294
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 295
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 296
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 297
+"../../../Engine/Content/EngineMaterials/Grid.uasset" 298
+"../../../Engine/Content/EditorMaterials/Thumbnails/FloorPlaneMaterial.uasset" 299
+"../../../Engine/Content/EngineSounds/Master.uasset" 300
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 301
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 302
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset" 303
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uasset" 304
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uasset" 305
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uasset" 306
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uasset" 307
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset" 308
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset" 309
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uasset" 310
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 311
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 312
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 313
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 314
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 315
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 316
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 317
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 318
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 319
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 320
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 321
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 322
+"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset" 323
+"../../Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uasset" 324
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraOrientationAxis.uasset" 325
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uasset" 326
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraCoordinateSpace.uasset" 327
+"../../Plugins/FX/Niagara/Content/Icons/S_ParticleSystem.uasset" 328
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 329
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 330
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 331
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 332
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 333
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 334
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 335
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 336
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 337
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 338
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 339
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 340
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 341
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 342
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 343
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 344
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 345
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 346
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 347
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 348
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 349
+"../../../Engine/Content/Maps/Entry.umap" 350
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/ThirdPerson/ThirdPersonBP/YouWinScreen.uasset" 351
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/ThirdPerson/ThirdPersonBP/YouDead.uasset" 352
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_BendingParameters.uasset" 353
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/PN_WindParameters.uasset" 354
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/ms_PivotPainter2_DecodePostion.uasset" 355
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/ms_PivotPainter2_DecodeAxisVector.uasset" 356
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/ms_PivotPainter2_Decode8BitAlphaAxisExtent.uasset" 357
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/PivotPainter2/PP2_rgb_XVect_a_XExtent.uasset" 358
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/PivotPainter2/SimpExPivPos.uasset" 359
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/PivotPainter2/test2_rgb_PivotPos_a_ParentIndexInt_UV_2.uasset" 360
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/WindTurblenceVectorAndGustMagnitude.uasset" 361
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 362
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_WindAnimation.uasset" 363
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_Bending.uasset" 364
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectPivotPoint.uasset" 365
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_MultiBend.uasset" 366
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/2dArrayLookupByIndex.uasset" 367
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/ms_PivotPainter2_ReturnParentTextureInfo.uasset" 368
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/ms_PivotPainter2_CalculateMeshElementIndex.uasset" 369
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ms_PivotPainter2_UnpackIntegerAsFloat.uasset" 370
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/TimeWithSpeedVariable.uasset" 371
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Lerp_Multiple_Float2.uasset" 372
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialFunctions/PN_AnimationShader.uasset" 373
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Textures/MasterTextures/ModelTextures/Leaf_N.uasset" 374
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Textures/MasterTextures/ModelTextures/Branch_AOSH.uasset" 375
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Textures/MasterTextures/ModelTextures/Bark_AOSH.uasset" 376
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Textures/MasterTextures/ModelTextures/Leaf_AOSM.uasset" 377
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Textures/MasterTextures/ModelTextures/Bark_N.uasset" 378
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Textures/MasterTextures/ModelTextures/Bark_A_.uasset" 379
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Textures/MasterTextures/ModelTextures/Branch_A.uasset" 380
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Textures/MasterTextures/ModelTextures/Leaf_O.uasset" 381
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Textures/MasterTextures/ModelTextures/Leaf_A_02.uasset" 382
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Textures/MasterTextures/ModelTextures/Branch_N.uasset" 383
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Textures/MasterTextures/CoverTextures/Moss_A.uasset" 384
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Textures/MasterTextures/CoverTextures/Moss_N.uasset" 385
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Textures/MasterTextures/CoverTextures/Moss_AOSH.uasset" 386
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SmoothThreshold.uasset" 387
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/FuzzyShadingGrass.uasset" 388
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 389
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uasset" 390
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/SpeedTree/SpeedTreeColorVariation.uasset" 391
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/HeightLerp.uasset" 392
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal.uasset" 393
+"../../../Engine/Content/MapTemplates/TilingNoise05.uasset" 394
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MasterMaterials/MA_Summer.uasset" 395
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/small/small_04_VEC.uasset" 396
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/small/small_04_PIV.uasset" 397
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/small/spruce_small_04_MA.uasset" 398
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/small/spruce_small_04_leaf.uasset" 399
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/small/spruce_small_04_trunk.uasset" 400
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Meshes/small/spruce_small_04.uasset" 401
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/small/small_03_PIV.uasset" 402
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/small/small_03_VEC.uasset" 403
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/small/spruce_small_03_MA.uasset" 404
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/small/spruce_small_03_leaf.uasset" 405
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/small/spruce_small_03_trunk.uasset" 406
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Meshes/small/spruce_small_03.uasset" 407
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/small/small_02_PIV.uasset" 408
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/small/small_02_VEC.uasset" 409
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/small/spruce_small_02_MA.uasset" 410
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/small/spruce_small_02_leaf.uasset" 411
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/small/spruce_small_02_trunk.uasset" 412
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Meshes/small/spruce_small_02.uasset" 413
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/small/small_01_PIV.uasset" 414
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/small/small_01_VEC.uasset" 415
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/small/spruce_small_01_MA.uasset" 416
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/small/spruce_small_01_trunk.uasset" 417
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/small/spruce_small_01_leaf.uasset" 418
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Meshes/small/spruce_small_01.uasset" 419
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Textures/MasterTextures/CoverTextures/Snow_A.uasset" 420
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorToRadialValue.uasset" 421
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/Transform3x3Matrix.uasset" 422
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/Pi.uasset" 423
+"../../../Engine/Content/ArtTools/RenderToTexture/MaterialFunctions/FoliageZRotation.uasset" 424
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/CreateThirdOrthogonalVector.uasset" 425
+"../../../Engine/Content/ArtTools/RenderToTexture/MaterialFunctions/ImposterUVs.uasset" 426
+"../../../Engine/Content/EngineMaterials/DefaultNormal.uasset" 427
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MasterMaterials/MA_Imposter.uasset" 428
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/imposter/Imposter_PIV.uasset" 429
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/imposter/Imposter_VEC.uasset" 430
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Textures/Imposter/half_04_imposter_N.uasset" 431
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Textures/Imposter/half_04_imposter_A.uasset" 432
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Textures/Imposter/half_04_imposter_O.uasset" 433
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/imposter/low/half_04_imposter.uasset" 434
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/half/low/spruce_half_04_low_VEC.uasset" 435
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/half/low/spruce_half_04_low_PIV.uasset" 436
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/half/low/spruce_half_04_low_MA.uasset" 437
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/half/low/spruce_half_04_low_trunk.uasset" 438
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/half/low/spruce_half_04_low_branch.uasset" 439
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/half/low/spruce_half_04_low_leaf.uasset" 440
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Meshes/half/low/spruce_half_04_low.uasset" 441
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Textures/Imposter/half_03_imposter_N.uasset" 442
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Textures/Imposter/half_03_imposter_A.uasset" 443
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Textures/Imposter/half_03_imposter_O.uasset" 444
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/imposter/low/half_03_imposter.uasset" 445
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/half/low/spruce_half_03_low_PIV.uasset" 446
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/half/low/spruce_half_03_low_VEC.uasset" 447
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/half/low/spruce_half_03_low_MA.uasset" 448
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/half/low/spruce_half_03_low_branch.uasset" 449
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/half/low/spruce_half_03_low_leaf.uasset" 450
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/half/low/spruce_half_03_low_trunk.uasset" 451
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Meshes/half/low/spruce_half_03_low.uasset" 452
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Textures/Imposter/half_02_imposter_N.uasset" 453
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Textures/Imposter/half_02_imposter_O.uasset" 454
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Textures/Imposter/half_02_imposter_A.uasset" 455
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/imposter/low/half_02_imposter.uasset" 456
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/half/low/spruce_half_02_low_VEC.uasset" 457
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/half/low/spruce_half_02_low_PIV.uasset" 458
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/half/low/spruce_half_02_low_MA.uasset" 459
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/half/low/spruce_half_02_low_branch.uasset" 460
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/half/low/spruce_half_02_low_trunk.uasset" 461
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/half/low/spruce_half_02_low_leaf.uasset" 462
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Meshes/half/low/spruce_half_02_low.uasset" 463
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Textures/Imposter/half_01_imposter_N.uasset" 464
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Textures/Imposter/half_01_imposter_A.uasset" 465
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Textures/Imposter/half_01_imposter_O.uasset" 466
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/imposter/low/half_01_imposter.uasset" 467
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/half/low/spruce_half_01_low_VEC.uasset" 468
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/half/low/spruce_half_01_low_PIV.uasset" 469
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/half/low/spruce_half_01_low_MA.uasset" 470
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/half/low/spruce_half_01_low_branch.uasset" 471
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/half/low/spruce_half_01_low_leaf.uasset" 472
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/half/low/spruce_half_01_low_trunk.uasset" 473
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Meshes/half/low/spruce_half_01_low.uasset" 474
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/imposter/high/half_04_imposter.uasset" 475
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/half/high/spruce_half_04_PIV.uasset" 476
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/half/high/spruce_half_04_VEC.uasset" 477
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/half/high/spruce_half_04_MA.uasset" 478
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/half/high/spruce_half_04_leaf.uasset" 479
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/half/high/spruce_half_04_branch.uasset" 480
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/half/high/spruce_half_04_trunk.uasset" 481
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Meshes/half/high/spruce_half_04.uasset" 482
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/imposter/high/half_03_imposter.uasset" 483
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/half/high/spruce_half_03_VEC.uasset" 484
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/half/high/spruce_half_03_PIV.uasset" 485
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/half/high/spruce_half_03_MA.uasset" 486
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/half/high/spruce_half_03_leaf.uasset" 487
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/half/high/spruce_half_03_branch.uasset" 488
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/half/high/spruce_half_03_trunk.uasset" 489
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Meshes/half/high/spruce_half_03.uasset" 490
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/imposter/high/half_02_imposter.uasset" 491
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/half/high/spruce_half_02_VEC.uasset" 492
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/half/high/spruce_half_02_PIV.uasset" 493
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/half/high/spruce_half_02_MA.uasset" 494
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/half/high/spruce_half_02_leaf.uasset" 495
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/half/high/spruce_half_02_branch.uasset" 496
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/half/high/spruce_half_02_trunk.uasset" 497
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Meshes/half/high/spruce_half_02.uasset" 498
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/imposter/high/half_01_imposter.uasset" 499
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/half/high/spruce_half_01_VEC.uasset" 500
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/half/high/spruce_half_01_PIV.uasset" 501
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/half/high/spruce_half_01_MA.uasset" 502
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/half/high/spruce_half_01_trunk.uasset" 503
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/half/high/spruce_half_01_leaf.uasset" 504
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/half/high/spruce_half_01_branch.uasset" 505
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Meshes/half/high/spruce_half_01.uasset" 506
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Textures/Imposter/full_03_imposter_A_unlit.uasset" 507
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Textures/Imposter/full_03_imposter_N.uasset" 508
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Textures/Imposter/full_03_imposter_O.uasset" 509
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/imposter/low/full_03_imposter.uasset" 510
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/full/low/spruce_full_03_low_VEC.uasset" 511
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/full/low/spruce_full_03_low_PIV.uasset" 512
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/full/low/spruce_full_03_low_MA.uasset" 513
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/full/low/spruce_full_03_low_leaf.uasset" 514
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/full/low/spruce_full_03_low_trunk.uasset" 515
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/full/low/spruce_full_03_low_branch.uasset" 516
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Meshes/full/low/spruce_full_03_low.uasset" 517
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Textures/Imposter/full_02_imposter_N.uasset" 518
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Textures/Imposter/full_02_imposter_O.uasset" 519
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Textures/Imposter/full_02_imposter_A_unlit.uasset" 520
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/imposter/low/full_02_imposter.uasset" 521
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/full/low/spruce_full_02_low_PIV.uasset" 522
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/full/low/spruce_full_02_low_VEC.uasset" 523
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/full/low/spruce_full_02_low_MA.uasset" 524
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/full/low/spruce_full_02_low_trunk.uasset" 525
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/full/low/spruce_full_02_low_leaf.uasset" 526
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/full/low/spruce_full_02_low_branch.uasset" 527
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Meshes/full/low/spruce_full_02_low.uasset" 528
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Textures/Imposter/full_01_imposter_N.uasset" 529
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Textures/Imposter/full_01_imposter_O.uasset" 530
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Textures/Imposter/full_01_imposter_A_unlit.uasset" 531
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/imposter/low/full_01_imposter.uasset" 532
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/full/low/spruce_full_01_low_PIV.uasset" 533
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/full/low/spruce_full_01_low_VEC.uasset" 534
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/full/low/spruce_full_01_low_MA.uasset" 535
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/full/low/spruce_full_01_low_branch.uasset" 536
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/full/low/spruce_full_01_low_leaf.uasset" 537
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/full/low/spruce_full_01_low_trunk.uasset" 538
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Meshes/full/low/spruce_full_01_low.uasset" 539
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/imposter/high/full_03_imposter.uasset" 540
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/full/high/spruce_full_03_PIV.uasset" 541
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/full/high/spruce_full_03_VEC.uasset" 542
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/full/high/spruce_full_03_MA.uasset" 543
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/full/high/spruce_full_03_leaf.uasset" 544
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/full/high/spruce_full_03_trunk.uasset" 545
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/full/high/spruce_full_03_branch.uasset" 546
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Meshes/full/high/spruce_full_03.uasset" 547
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/imposter/high/full_02_imposter.uasset" 548
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/full/high/spruce_full_02_PIV.uasset" 549
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/full/high/spruce_full_02_VEC.uasset" 550
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/full/high/spruce_full_02_MA.uasset" 551
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/full/high/spruce_full_02_branch.uasset" 552
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/full/high/spruce_full_02_trunk.uasset" 553
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/full/high/spruce_full_02_leaf.uasset" 554
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Meshes/full/high/spruce_full_02.uasset" 555
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/imposter/high/full_01_imposter.uasset" 556
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/full/high/spruce_full_01_PIV.uasset" 557
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Textures/PivotPainterTextures/full/high/spruce_full_01_VEC.uasset" 558
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/full/high/spruce_full_01_MA.uasset" 559
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/full/high/spruce_full_01_trunk.uasset" 560
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/full/high/spruce_full_01_branch.uasset" 561
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Materials/MaterialInstances/full/high/spruce_full_01_leaf.uasset" 562
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/PN_interactiveSpruceForest/Meshes/full/high/spruce_full_01.uasset" 563
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/ModularBuildingSet/Textures/bricks_red_n.uasset" 564
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/ModularBuildingSet/Textures/bricks_red_g.uasset" 565
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/ModularBuildingSet/Textures/bricks_red_c.uasset" 566
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/ModularBuildingSet/materials/Bricks_Tiles/bricks_red.uasset" 567
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/ModularBuildingSet/Meshes/Walls_Grounds/plane_wall_left_2x2.uasset" 568
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/ModularBuildingSet/Textures/concrete_trim_g.uasset" 569
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/ModularBuildingSet/Textures/concrete_trim_c.uasset" 570
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/ModularBuildingSet/Textures/concrete_trim_n.uasset" 571
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/ModularBuildingSet/materials/Concrete/concrete_trim.uasset" 572
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/ModularBuildingSet/Meshes/Upper_Deco/deco_upper_ornament_flower_c.uasset" 573
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/ModularBuildingSet/Textures/beam_window_supports_metal_n.uasset" 574
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/ModularBuildingSet/Textures/beam_window_supports_metal_g.uasset" 575
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/ModularBuildingSet/Textures/beam_window_supports_metal_c.uasset" 576
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/ModularBuildingSet/materials/Metal/metal_trim___default.uasset" 577
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/ModularBuildingSet/Textures/window_spec.uasset" 578
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/ModularBuildingSet/Textures/window_bump_detal_n.uasset" 579
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/ModularBuildingSet/materials/Glass/Glass_Opaque.uasset" 580
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/ModularBuildingSet/Textures/brick_wall_tiling_n.uasset" 581
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/ModularBuildingSet/Textures/brick_wall_tiling_g.uasset" 582
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/ModularBuildingSet/Textures/brick_wall_tiling_c_grey.uasset" 583
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/ModularBuildingSet/materials/Bricks_Tiles/brick_wall_grey.uasset" 584
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/ModularBuildingSet/Meshes/Upper_Brick_Wndws/upper_brick_wndw_a_l_2x2.uasset" 585
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/ModularBuildingSet/Meshes/Upper_Brick_Wndws/upper_brick_wall_a_r_2x2.uasset" 586
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/ModularBuildingSet/materials/Glass/Glass.uasset" 587
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/ModularBuildingSet/Textures/tiles_wall_broken_n.uasset" 588
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/ModularBuildingSet/Textures/tiles_wall_broken_g.uasset" 589
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/ModularBuildingSet/Textures/tiles_wall_broken_c.uasset" 590
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/ModularBuildingSet/materials/Bricks_Tiles/tile_trim___default.uasset" 591
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/ModularBuildingSet/Meshes/Store_fronts_interiors/store_front_door_4x1_b.uasset" 592
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/ModularBuildingSet/Textures/signs_decals_stickers_c.uasset" 593
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/ModularBuildingSet/materials/Decals_Signs/stickers_decals.uasset" 594
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/ModularBuildingSet/Meshes/Decals_Stickers_Posters/decal_sign_store_hours.uasset" 595
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/ModularBuildingSet/Meshes/Building_Deco/deco_windows_airconditioning.uasset" 596
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/ModularBuildingSet/Meshes/Beams_Pillars/beam_pillar_tiles_corner_bottom.uasset" 597
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/ModularBuildingSet/Meshes/Beams_Pillars/beam_pillar_metal_corner_top.uasset" 598
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/ModularBuildingSet/Meshes/Beams_Pillars/beam_pillar_metal_1x2_tiling.uasset" 599
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/CreekAssets/Textures/T_NormalVariation.uasset" 600
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/CreekAssets/Textures/T_ColorVariationDistance.uasset" 601
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/CreekAssets/Textures/T_BaseRoughness.uasset" 602
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/CreekAssets/Textures/T_BaseMask.uasset" 603
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/CreekAssets/Textures/T_BaseGrass.uasset" 604
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/CreekAssets/Textures/T_BaseDirt.uasset" 605
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/CreekAssets/Textures/T_BaseCliff.uasset" 606
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/CreekAssets/Materials/MF_NormalIntensity.uasset" 607
+"../../../Engine/Content/Engine_MI_Shaders/T_Base_Tile_Normal.uasset" 608
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/ComplexMotion/Motion_4WayChaos_Normal.uasset" 609
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/CreekAssets/Materials/M_Water.uasset" 610
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/CreekAssets/Materials/M_water_Inst.uasset" 611
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/CreekAssets/Meshes/SM_WaterPlane.uasset" 612
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/CreekAssets/Textures/T_BackgroundLand_N.uasset" 613
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/CreekAssets/Textures/T_Grass_basecolor.uasset" 614
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/CreekAssets/Textures/T_GraniteCliff_basecolor.uasset" 615
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/CreekAssets/Textures/T_Background_Splatmap.uasset" 616
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/CreekAssets/Materials/M_BackgroundLand.uasset" 617
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/CreekAssets/Materials/M_BackgroundLand_Inst.uasset" 618
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/CreekAssets/Meshes/SM_Background_Land.uasset" 619
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/CreekAssets/Materials/MF_D.uasset" 620
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/CreekAssets/Materials/MF_B.uasset" 621
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/CreekAssets/Materials/LG_C.uasset" 622
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/CreekAssets/Materials/MF_E.uasset" 623
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/CreekAssets/Materials/MF_A.uasset" 624
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/CreekAssets/Materials/MF_C.uasset" 625
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/CreekAssets/Materials/LG_E.uasset" 626
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/CreekAssets/Materials/LG_D.uasset" 627
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/CreekAssets/Materials/M_Pebbles.uasset" 628
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/CreekAssets/Materials/M_Pebbles_Inst.uasset" 629
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/CreekAssets/Meshes/Pebbles01.uasset" 630
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/WorldPositionOffset/SimpleGrassWind.uasset" 631
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/CreekAssets/Materials/M_Grass.uasset" 632
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/CreekAssets/Textures/FoliageAtlas.uasset" 633
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/CreekAssets/Materials/M_Grass_Inst.uasset" 634
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/CreekAssets/Meshes/Grass02.uasset" 635
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/CreekAssets/Meshes/Grass01.uasset" 636
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/CreekAssets/Materials/LG_B.uasset" 637
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/CreekAssets/Materials/LG_A.uasset" 638
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/AlphaBlend/WorldAlignedBlend.uasset" 639
+"../../../Engine/Content/EngineMaterials/T_Default_MacroVariation.uasset" 640
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 641
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 642
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/CreekAssets/Materials/M_Auto_Landscape.uasset" 643
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/CreekAssets/Materials/MI_Auto_Landscape_Creek.uasset" 644
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/Maps/Creek_sharedassets/Material_E_LayerInfo.uasset" 645
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/Maps/Creek_sharedassets/Material_D_LayerInfo.uasset" 646
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/Maps/Creek_sharedassets/Material_C_LayerInfo.uasset" 647
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/Maps/Creek_sharedassets/Material_Blend_LayerInfo.uasset" 648
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/Maps/Creek_sharedassets/Material_B_LayerInfo.uasset" 649
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/Maps/Creek_sharedassets/Material_A_LayerInfo.uasset" 650
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/Maps/Creek_sharedassets/Foliage_Remover_LayerInfo.uasset" 651
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/CreekAssets/Textures/T_Mountain_SplatMap.uasset" 652
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/CreekAssets/Textures/T_Mountain__N.uasset" 653
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/CreekAssets/Materials/M_BackgroundMountain.uasset" 654
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/CreekAssets/Materials/MI_BackgroundMountain.uasset" 655
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/CreekAssets/Meshes/Hero_Mountain.uasset" 656
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/ThirdPerson/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 657
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/ThirdPerson/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 658
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/ThirdPerson/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 659
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/ThirdPerson/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 660
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/ThirdPerson/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 661
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/ThirdPerson/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 662
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/ThirdPerson/Mannequin/Character/Textures/T_UE4Logo_N.uasset" 663
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/ThirdPerson/Mannequin/Character/Textures/T_Male_N.uasset" 664
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/ThirdPerson/Mannequin/Character/Textures/T_UE4Logo_Mask.uasset" 665
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/ThirdPerson/Mannequin/Character/Textures/T_Male_Mask.uasset" 666
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/ThirdPerson/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 667
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/ThirdPerson/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 668
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/ThirdPerson/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 669
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/ThirdPerson/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 670
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 671
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 672
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/ThirdPerson/Mannequin/Character/Materials/M_Male_Body.uasset" 673
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/ThirdPerson/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 674
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/ThirdPerson/Mannequin/Character/Mesh/SK_Mannequin.uasset" 675
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 676
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 677
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/ThirdPerson/Mannequin/Animations/ThirdPersonWalk.uasset" 678
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/ThirdPerson/Mannequin/Animations/ThirdPersonIdle.uasset" 679
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/ThirdPerson/Mannequin/Animations/ThirdPersonRun.uasset" 680
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/ThirdPerson/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 681
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/ThirdPerson/Mannequin/Animations/ThirdPerson_Jump.uasset" 682
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/ThirdPerson/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 683
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/ThirdPerson/Mannequin/Animations/ThirdPersonJump_Start.uasset" 684
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 685
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/ThirdPerson/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 686
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/ThirdPerson/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" 687
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/ThirdPerson/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset" 688
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/ThirdPerson/ThirdPersonBP/Blueprints/Obstical.uasset" 689
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/Maps/Creek_BuiltData.uasset" 690
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 691
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 692
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 693
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 694
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 695
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 696
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 697
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 698
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 699
+"../../../../../../rzathere/Documents/Document/Unreal Projects/JOYRIDE_RUNNING/Content/Maps/Creek.umap" 700
